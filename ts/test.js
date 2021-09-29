@@ -1,0 +1,1 @@
+var massage = "Hello World";

@@ -1,0 +1,1 @@
+let massage : string = "Hello World";
