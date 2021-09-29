@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "sassStart": "sass scss/main.sass frontend/css/style.css",
+    "sassWatch": "sass --watch --no-source-map scss/main.sass frontend/css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan P. Behrens",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
